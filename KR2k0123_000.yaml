@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0123/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十一
+  hash: sha256:5f8ab01fbfc809cc911a707e5aa22577e1ed198056f701795ddffcd84b7bc12f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0123_WYG_000-1a, image: WYG0590/WYG0590-0459a.png}
+body:
+  text: 平江記事地理類八雜記之屬提要臣等謹案平江記事一卷元髙德基撰德基平江人嘗官建德路總管其書中有記干文傳修遼金宋史事則當成於至正中矣所載皆吳郡古蹟而亦兼及神仙鬼怪詼諧淫諺之事可禆圖志佚聞其間不免疏謬者如引圖經虞山者巫咸所居而不知其語出越絶書引吳越春秋稻蟹不遺種而不知其語出春秋外傳又胥蘇二字古人本通用故國語史記皆作姑蘇而以為後人之訛字凡此皆失於考證然而序次詳贍條理秩然足供採擷者甚多亦龔明之中吳紀聞之流亞也乾隆四十三年六月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:80d6d57eea5a226eaef06c80b0e1861850dc20f5c5088be3b662d1227da3d67a
+metadata:
+  title: 平江記事
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:46:26.087490'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2k0123/KR2k0123_000.txt
+hash: sha256:7186d7ffd69a50bb5847a5c7c9b69d979307f55220710bb18619bd536d09dc90
