@@ -23,7 +23,7 @@ assets:
   - {seq: 0, filename: KR2k0123_000.yaml, hash: 'sha256:8de9eb8ed02edc025c67968eb094b174fe49faf169507fa6a1dfe3978a1f797b'}
   - {seq: 1, filename: KR2k0123_001.yaml, hash: 'sha256:60f4a922bbec91efb59b7e77b1d3be5fe5db1119a5ea5f1a7ac4b054bb7c7d08'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0123_000.markers.yaml, hash: 'sha256:82bb93610f8be02c825dbc3090e755ac868bba5bf7e5700a3dc94bf8339d1f47'}
+  - {seq: 0, role: markers, filename: assets/KR2k0123_000.markers.yaml, hash: 'sha256:ae9db75b1007963fe22deddc7326e00187c1bf66c91aa8df1a0d687646ee505e'}
   - {seq: 1, role: markers, filename: assets/KR2k0123_001.markers.yaml, hash: 'sha256:07d3e2efe626134c6528184c136f457d1ae7e56e64a3b31216c2203a6bdf1cc8'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 平江記事
   type: section
   level: 1
-hash: sha256:7a3063a393b8a7466acb05d38df7488c152db9744c00035e8bd3f8fe780f3e26
+hash: sha256:cfc33bb568c32d4775567a3e3516981348db16cbff69b29c07ff184ca00bedcb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
